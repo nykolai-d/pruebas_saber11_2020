@@ -2,6 +2,7 @@
 Análisis estadístico Pruebas Saber 11 Calendario A (Colombia)<br/><br/>
 Las pruebas Saber son evaluaciones estandarizadas aplicadas anualmente por el ICFES en todo el territorio colombiano, a los estudiantes que están por finalizar el  grado undécimo de la educación media. Su objetivo es evaluar el desempeño de los estudiantes en el marco de las competencias básicas definidas por el Ministerio de Educación Nacional. Son cinco pruebas: lectura crítica, sociales y  ciudadanas, matemáticas, ciencias naturales e inglés. Cada prueba se puntúa con una escala entre 0 y 100. El  puntaje global oscila entre 0 y 500.<br/><br/>
 Datos obtenidos del Instituto Colombiano para la Evaluación de la Educación – ICFES en  https://www.datos.gov.co/Educacion/Saber-11-2020-2/rnvb-vnyh. Fecha de consulta: marzo de 2021.<br/><br/>
+Análisis realizado en Excel, PowerBI y R.<br/><br/>
 Se realizó un análisis estadístico por categorías: género, estrato socioeconómico, bilingüismo, institución pública o privada, territorio, entre otras. Algunas conclusiones:<br/><br/>
 • El 81% de quienes presentaron la prueba son menores de edad.<br/>
 • Menos del 3% son de colegios bilingues, menos del 3% son de colegios no mixtos y menos del 3% son de estrato 5 y 6.<br/>
